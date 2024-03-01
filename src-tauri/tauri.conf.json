@@ -59,6 +59,7 @@
         "height": 600,
         "resizable": true,
         "title": "mockify",
+        "fileDropEnabled": false,
         "width": 800
       }
     ]
